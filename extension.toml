@@ -1,0 +1,7 @@
+id = "bearded"
+name = "Bearded Themes"
+version = "1.0.0"
+schema_version = 1
+authors = ["lasse <hi@lassejlv.dk>"]
+description = "bearded themes from vscode converted to zed"
+repository = "https://github.com/lassejlv/bearded-themes"
