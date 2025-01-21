@@ -1,6 +1,6 @@
 id = "bearded"
 name = "Bearded Themes"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["lasse <hi@lassejlv.dk>"]
 description = "bearded themes from vscode converted to zed"
